@@ -48,7 +48,7 @@ Make sure you have the following tools installed before setting up the project:
 1. Start the Expo development server:
 
     ```bash
-    npm start
+    npx expo
     ```
 
 2. Use the Expo Go app on your mobile device or an emulator to scan the QR code provided by the Expo development server.

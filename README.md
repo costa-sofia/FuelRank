@@ -51,8 +51,7 @@ Make sure you have the following tools installed before setting up the project:
     npx expo
     ```
 
-2. Use the Expo Go app on your mobile device or an emulator to scan the QR code provided by the Expo development server.
-
+2. Use the Expo Go app on your mobile device to scan the QR code provided by the Expo development server. Alternatively, if you are using an emulator, press 'a' after starting the Expo development server to open it on an Android emulator, or 'i' to open it on an iOS emulator.
 3. Explore the FuelRank app on your device.
 
 ## Contributing
